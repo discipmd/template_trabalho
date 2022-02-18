@@ -134,13 +134,17 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/
 #### Os usuários criados no GIT devem possuir o nome de identificação do aluno (não serão aceitos nomes como Eu123, meuprojeto, pro456, etc). Em caso de dúvida comunicar o professor.
 
 
-BrModelo:<br>
+### BrModelo:<br>
+#### BrModelo local
 Para obter o BrModelo pode-se acessar a página do oficial especificada abaixo:<br>
 http://www.sis4.com/brModelo/download.html
 <br>
 Caso tenha alguma dificuldade, incluímos uma cópia do BrModelo no formato JAR versão 3.1.1 (obtida do site oficial supracitado e com devidos créditos para os autores) [neste link](https://github.com/discipmd/template_trabalho/blob/main/arquivos/brModelo.jar?raw=true).<br> Lembre-se que é necessário possuir o JAVA instalado para executar o arquivo/software.
 
-
+ #### BrModelo Online
+De modo alternativo (pois contém inicialmente menos recursos), pode-se utilizar o BrModeloWeb on line por meio de cadastro via: https://www.brmodeloweb.com/lang/pt-br/index.html
+ 
+ 
 Link para curso de GIT<br>
 [https://www.youtube.com/curso_git](https://www.youtube.com/playlist?list=PLo7sFyCeiGUdIyEmHdfbuD2eR4XPDqnN2?raw=true "Title")
 
