@@ -133,6 +133,9 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 #### Os usuários criados no GIT devem possuir o nome de identificação do aluno (não serão aceitos nomes como Eu123, meuprojeto, pro456, etc). Em caso de dúvida comunicar o professor.
 
+Link para curso de GIT<br>
+[https://www.youtube.com/curso_git](https://www.youtube.com/playlist?list=PLo7sFyCeiGUdIyEmHdfbuD2eR4XPDqnN2?raw=true "Title")
+
 
 ### BrModelo:<br>
 #### BrModelo local
@@ -145,7 +148,5 @@ Caso tenha alguma dificuldade, incluímos uma cópia do BrModelo no formato JAR 
 De modo alternativo (pois contém inicialmente menos recursos), pode-se utilizar o BrModeloWeb on line por meio de cadastro via: https://www.brmodeloweb.com/lang/pt-br/index.html
  
  
-Link para curso de GIT<br>
-[https://www.youtube.com/curso_git](https://www.youtube.com/playlist?list=PLo7sFyCeiGUdIyEmHdfbuD2eR4XPDqnN2?raw=true "Title")
 
 
