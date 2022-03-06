@@ -53,7 +53,10 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     b) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
     
 ![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discipmd/template_trabalho/blob/main/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")
-    
+
+ 
+ ># Marco de Entrega 01: Do item 1 até o ítem 4<br>
+
   
 ### 5.MODELO CONCEITUAL<br>
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
@@ -80,8 +83,6 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
-
- ># Marco de Entrega 01: Do item 1 até o ítem 5<br>
 
 
 ### 6	MODELO LÓGICO<br>
