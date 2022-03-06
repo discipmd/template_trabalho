@@ -54,7 +54,6 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     
 ![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discipmd/template_trabalho/blob/main/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")
     
- ># Marco de Entrega 01: Do item 1 até o ítem 4<br>
   
 ### 5.MODELO CONCEITUAL<br>
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
@@ -68,7 +67,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         
 ![Alt text](https://github.com/discipmd/template_trabalho/blob/main/images/concept_sample.png?raw=true "Modelo Conceitual")
     
-    
+  
         
     
 #### 5.1 Validação do Modelo Conceitual
@@ -82,24 +81,23 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 
+ ># Marco de Entrega 01: Do item 1 até o ítem 5<br>
+
 
 ### 6	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados
         b) verificação de correspondencia com o modelo conceitual 
         (não serão aceitos modelos que não estejam em conformidade)
 
-
- ># Marco de Entrega 02: Do item 5 até o ítem 6<br>
-
-
-   
+  
 
 ### 7	AJUSTES DA DOCUMENTAÇÃO, CRIAÇÃO DOS SLIDES E VÍDEO PARA APRESENTAÇAO FINAL <br>
 
 #### a) Modelo (pecha kucha)<br>
 #### b) Tempo de apresentação 6:40 
 
-># Marco de Entrega 03: Item 7<br>
+
+ ># Marco de Entrega 02: Do item 5 até o ítem 7<br>
 <br>
 <br>
 <br> 
